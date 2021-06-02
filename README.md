@@ -6,3 +6,6 @@
 
 
 ![Yasin's GitHub stats](https://github-readme-stats.vercel.app/api?username=savior210&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=savior210&langs_count=8)
+
+
