@@ -4,7 +4,6 @@
 <h4> Discord Projelerim</h4>
 <h5> <a href="https://music-natural.cf">Natural</a></h5>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/817498472546041888)](https://discord.com/users/817498472546041888)
 ![Yasin's GitHub stats](https://github-readme-stats.vercel.app/api?username=savior210&show_icons=true&theme=dark)<br>
 
 
