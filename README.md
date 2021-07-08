@@ -1,4 +1,4 @@
-<h1>Hi <img src="https://media.tenor.com/images/dc6f6c34607462dd22571347ce23957e/tenor.gif" height="35px"></h1>
+<h1 align="center">Hi <img src="https://media.tenor.com/images/dc6f6c34607462dd22571347ce23957e/tenor.gif" height="35px"></h1>
 
 <ul>
   <li>Simple Developer</li>
