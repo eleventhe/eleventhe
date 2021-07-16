@@ -5,7 +5,7 @@
   <li>Languages I Know: JS, Node JS, TS, HTML</li>
   <li><a href="https://eleven11.cf">Website</a>, <a href="https://music-natural.cf">My Bot</a>, <a href="https://discord.gg/roxybotlist">Discord</a></li>
   <p align="center">Other</p>
-  <center><a target="_blank" href="https://www.instagram.com/eleven_qw/"><img height="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png"></a></center>
+  <a target="_blank" href="https://www.instagram.com/eleven_qw/"><center><img height="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png"></center></a>
 </ul>
 <h4> Discord Projects</h4>
 <h5> <a href="https://music-natural.cf">Natural</a></h5>
