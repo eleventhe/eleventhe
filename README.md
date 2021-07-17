@@ -1,7 +1,6 @@
 <h1 align="center">Hi there <img src="https://media.tenor.com/images/dc6f6c34607462dd22571347ce23957e/tenor.gif" height="35px"></h1>
 
 <ul>
-  <li>Simple Developer</li>
   <li>Languages I Know: JS, Node JS, TS, HTML</li>
   <li><a target="_blank" href="https://eleven11.cf">Website</a>, <a target="_blank" href="https://music-natural.cf">My Bot</a>, <a target="_blank" href="https://discord.gg/roxybotlist">Discord</a></li>
   <p>Other:</p>
