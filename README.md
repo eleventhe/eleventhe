@@ -7,8 +7,6 @@
   <p>Other:</p>
   <a target="_blank" href="https://www.instagram.com/yasincakmak.x/"><img height="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png"></a>
 </ul>
-<h4> Discord Projects</h4>
-<h5> <a href="https://music-natural.cf">Natural</a></h5>
 
 ![eleven's GitHub stats](https://github-readme-stats.vercel.app/api?username=eleventhe&show_icons=true&theme=radical)
 <br>
