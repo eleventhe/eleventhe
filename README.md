@@ -2,7 +2,7 @@
 
 <ul>
   <li>Languages I Know: JS, Node JS, TS, HTML</li>
-  <li><a target="_blank" href="https://eleven11.cf">Website</a>, <a target="_blank" href="https://music-natural.cf">My Bot</a>, <a target="_blank" href="https://discord.gg/roxybotlist">Discord</a></li>
+  <li><a target="_blank" href="https://eleven11.cf">Website</a>, <a target="_blank" href="https://naturalbot.xyz/">My Bot</a>, <a target="_blank" href="https://discord.gg/roxybotlist">Discord</a></li>
   <p>Other:</p>
   <a target="_blank" href="https://www.instagram.com/yasincakmak.x/"><img height="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png"></a>
 </ul>
