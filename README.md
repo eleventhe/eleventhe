@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img src="https://media.tenor.com/images/17fcbd0ce85dccfae8b03f4b2b06fc97/tenor.gif" height="50px"></h1>
+<h1 align="center">Hi there <img src="https://media.tenor.com/images/17fcbd0ce85dccfae8b03f4b2b06fc97/tenor.gif" height="69px"></h1>
 
 <ul>
   <li>Languages I Know: JS, Node JS, TS, HTML</li>
