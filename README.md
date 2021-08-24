@@ -2,7 +2,7 @@
 
 <ul>
   <li>Full-Stack Developer</li>
-  <li><a target="_blank" href="https://eleven011.xyz">Website</a>, <a target="_blank" href="https://naturalbot.xyz/">My Bot</a>, <a target="_blank" href="https://discord.gg/roxybotlist">Discord</a></li>
+  <li><a target="_blank" href="https://eleven011.xyz">Website</a>, <a target="_blank" href="https://discord.gg/roxybotlist">Discord</a></li>
   <li>Languages and Tools:</li>
   <a target="_blank" href="https://www.mongodb.com/"><img height="25px" src="https://cdn.naturalbot.xyz/mongodb-original-wordmark.svg" title="MongoDB"></a> <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" title="JavaScript"></a> <a target="_blank" href="https://www.w3.org/html/"><img height="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" title="HTML"></a> 
   <li>Other:</li>
