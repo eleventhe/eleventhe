@@ -9,6 +9,6 @@
   <a target="_blank" href="https://www.instagram.com/eysahh3/"><img height="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" title="instagram"></a> <a target="_blank" href="https://discord.com/users/906634054311481364"><img height="25px" src="https://discord.com/assets/f9bb9c4af2b9c32a2c5ee0014661546d.png" title="discord"></a> <a target="_blank" href="https://open.spotify.com/user/c327qem5483mgn4neuricnk5e"><img height="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/1024px-Spotify_logo_without_text.svg.png" title="spotify"></a>
 </ul>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/906634054311481364)](https://discord.com/users/906634054311481364)
+<img src="https://lanyard.cnrad.dev/api/906634054311481364">
 <br>
-![Profile View Counter](https://komarev.com/ghpvc/?username=eleventhe)
+<img src="https://komarev.com/ghpvc/?username=eleventhe">
