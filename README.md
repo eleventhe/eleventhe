@@ -10,4 +10,5 @@
 </ul>
 
 ![eleven's GitHub stats](https://github-readme-stats.vercel.app/api?username=eleventhe&show_icons=true&theme=radical)
+![Profile View Counter](https://komarev.com/ghpvc/?username=eleventhe)
 <br>
