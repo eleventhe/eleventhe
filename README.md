@@ -11,7 +11,4 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/906634054311481364)](https://discord.com/users/906634054311481364)
 <br>
-![eleven's GitHub stats](https://github-readme-stats.vercel.app/api?username=eleventhe&show_icons=true&theme=radical)
-<br>
 ![Profile View Counter](https://komarev.com/ghpvc/?username=eleventhe)
-<br>
