@@ -12,8 +12,4 @@
 
 <img src="https://lanyard.cnrad.dev/api/906634054311481364">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mishuw&show_icons=true&theme=dark&locale=en" alt="mishuw" />
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mishuw&theme=dark" alt="mishuw" />
-
 <img align="center" src="https://gpvc.arturio.dev/mishuw?theme=dark" alt="mishuw" />
