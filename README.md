@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm mishu</h1>
 <h3 align="center">Full Stack Developer. I am high school student. I have been interested in software for 2-3 years</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mishuw&label=Profile%20views&color=0e75b6&style=flat" alt="mishuw" /> </p>
+<p align="left"> <img src="https://gpvc.arturio.dev/mishuw?theme=dark" alt="mishuw" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mishuw" alt="mishuw" /></a> </p>
 
