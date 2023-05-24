@@ -22,3 +22,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mishuw&show_icons=true&locale=en" alt="mishuw" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mishuw&" alt="mishuw" /></p>
+
+<h3 align="left">Contact</h3>
+[![Discord Banner](https://invidget.switchblade.xyz/3pvmJbHy)](https://invidget.switchblade.xyz/3pvmJbHy)
