@@ -3,15 +3,10 @@
 
 <p align="left"> <img src="https://gpvc.arturio.dev/mishuw?theme=dark" alt="mishuw" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mishuw" alt="mishuw" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/mishunuz" target="blank"><img src="https://img.shields.io/twitter/follow/mishunuz?logo=twitter&style=for-the-badge" alt="mishunuz" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mishunuz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mishunuz" height="30" width="40" /></a>
 <a href="https://instagram.com/fullstack.mishu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fullstack.mishu" height="30" width="40" /></a>
-<a href="https://discord.gg/212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="212" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
