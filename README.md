@@ -1,5 +1,5 @@
 <h3 align="left">Contact</h3>
-<a href="https://discord.gg/3pvmJbHy"><img src="https://invidget.switchblade.xyz/79MXUAef5s" /></a>
+<a href="https://discord.gg/79MXUAef5s"><img src="https://invidget.switchblade.xyz/79MXUAef5s" /></a>
 
 # 💫 About Me:
 
