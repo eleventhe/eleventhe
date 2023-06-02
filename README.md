@@ -1,5 +1,7 @@
 <h3 align="left">Contact</h3>
-<a href="https://discord.gg/3pvmJbHy"><img src="https://invidget.switchblade.xyz/79MXUAef5s" /></a># 💫 About Me:
+<a href="https://discord.gg/3pvmJbHy"><img src="https://invidget.switchblade.xyz/79MXUAef5s" /></a>
+
+# 💫 About Me:
 
 Hello, I'm Yasin, I'm 17 years old, I'm hanging out as a mishu. I'm a full stack developer. I usually make new projects when I get bored. You can contact for joint project.
 
