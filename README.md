@@ -5,6 +5,10 @@
 
 Hello, I'm Yasin, I'm 17 years old, I'm hanging out as a mishu. I'm a full stack developer. I usually make new projects when I get bored. You can contact for joint project.
 
+<p align="center">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=mishuw&data=followers,repositories,stars,commits&theme=darkmode" />
+</p>
+
 ## 🌐 Socials:
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/212) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fullstack.mishu) 
