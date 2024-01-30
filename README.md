@@ -1,5 +1,5 @@
 <h3 align="left">Contact</h3>
-<a href="https://discord.gg/79MXUAef5s"><img src="https://invidget.switchblade.xyz/79MXUAef5s" /></a>
+<a href="https://discord.gg/212"><img src="[https://invidget.switchblade.xyz/79MXUAef5s](https://invidget.switchblade.xyz/212)" /></a>
 
 # 💫 About Me:
 
@@ -15,21 +15,7 @@ Hello, I'm Yasin, I'm 17 years old, I'm hanging out as a mishu. I'm a full stack
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=mishuw&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=mishuw&theme=react&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mishuw&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=mishuw&theme=discord&no-frame=true&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=mishuw&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
+![](https://github-readme-stats.vercel.app/api?username=mishuw&theme=react&hide_border=false&include_all_commits=true&count_private=true)
 
 [![](https://visitcount.itsvg.in/api?id=mishuw&icon=0&color=10)](https://visitcount.itsvg.in)
 
