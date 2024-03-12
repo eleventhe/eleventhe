@@ -43,9 +43,14 @@
 ---
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
-<div align="center">
+<div>
   <a href="https://discord.gg/ttsKZF3arN">
-  <img src="https://api.weblutions.com/discord/invite/ttsKZF3arN/"/>
+  <img align="right" src="https://api.weblutions.com/discord/invite/ttsKZF3arN/"/>
+  </a>
+</div>
+<div>
+  <a href="https://discord.com/users/906634054311481364">
+  <img align="left" src="https://lanyard.cnrad.dev/api/906634054311481364?hideActivity=true"/>
   </a>
 </div>
 <br/>
