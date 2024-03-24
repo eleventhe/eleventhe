@@ -44,8 +44,8 @@
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div>
-  <a href="https://discord.gg/ttsKZF3arN">
-  <img align="right" src="https://api.weblutions.com/discord/invite/ttsKZF3arN/"/>
+  <a href="https://discord.gg/nVSFdn5dUv">
+  <img align="right" src="https://api.weblutions.com/discord/invite/nVSFdn5dUv"/>
   </a>
 </div>
 <div>
