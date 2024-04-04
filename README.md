@@ -50,7 +50,7 @@
 </div>
 <div>
   <a href="https://discord.com/users/906634054311481364">
-  <img align="left" src="https://lanyard.cnrad.dev/api/906634054311481364?hideActivity=true"/>
+  <img align="left" src="https://lanyard.cnrad.dev/api/652146528185745418?hideActivity=true"/>
   </a>
 </div>
 <br/>
